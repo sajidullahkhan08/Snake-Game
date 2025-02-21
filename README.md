@@ -1,6 +1,6 @@
 # Classic Snake Game in C++ with Raylib
 
-#### Video Demo:  <https://youtu.be/kk9ZB-LlQvo?si=9TtwcacQ-jdhFruz)>
+#### Video Demo:  <https://youtu.be/kk9ZB-LlQvo?si=9TtwcacQ-jdhFruz>
 
 A classic Snake Game implementation using C++ and the Raylib library. This project features a retro-style snake game with smooth controls, sound effects, and scoring system.
 
